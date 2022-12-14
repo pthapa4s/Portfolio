@@ -1,0 +1,19 @@
+.skills__list {
+    max-width: 450px;
+    width: 95%;
+    
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: var(--clr-bg);
+    color:#50C878;
+    background-color: var(--clr-bg)!important;
+    border-color: #50C878 !important;
+
+  }
+  
+  .skills__list-item {
+    margin: 0.5em;
+  }
+  
